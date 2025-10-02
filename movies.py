@@ -25,6 +25,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],  # actors/actresses
     ),
     (
+        "the ron clark story",
+        "randa haines",
+        2006,
+        [
+            "matthew perry",
+            "hannah hodson",
+            "brandon mychal smith",
+            "melissa de sousa",
+            'ernie hudson',
+        ],
+    ),
+    (
         "the big easy",
         "jim mcbride",
         1987,
