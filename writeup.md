@@ -14,7 +14,7 @@ This assignment completes our movie chatbot system by implementing action functi
 
 ## Reflection Questions
 
-1. What are some key programming concepts or techniques that you learned while completing this assignment?
+1. What are some key programming concepts or techniques that you learned while completing this assignment? Some key concepts I learned while completing this assignment was match functions, lists, and strings.I'm still struggling a little bit of understanding these concepts but I'm slowly understanding how they work. I also am slowly learning asserts since I never really added asserts in the previous assignments. 
 
 
 

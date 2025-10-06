@@ -33,7 +33,7 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "hannah hodson",
             "brandon mychal smith",
             "melissa de sousa",
-            'ernie hudson',
+            "ernie hudson",
         ],
     ),
     (
